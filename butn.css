@@ -1,0 +1,15 @@
+.butn{
+    font-family: 'Kankin', Arial, sans-serif;
+    border: 3px solid #b15615;
+    cursor: pointer;
+
+    background: linear-gradient( to right, rgb(194, 114, 34), rgba(253, 145, 44, 0.495),rgb(200, 112, 25) );
+    border-radius:1cap;
+    height: 70px;
+    font-size: 18px;
+    margin: 1px;
+}
+
+.butn:active{
+    outline: 3px solid rgb(133, 130, 94);
+}
